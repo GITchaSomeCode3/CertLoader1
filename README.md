@@ -8,7 +8,7 @@ Backup of DB is in GIT.  Used default instance of sql.  (/.)
 Json files containing tool cert data are uploaded to git.  These can be imported via the UI
 
 
-FUNCTIONS
+↓FUNCTIONS↓
 
 Import Json - JSON file is uploaded to DB with a stored procedure.  PDF created on the fly and uploaded with Stored Procedure
 
